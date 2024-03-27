@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Jadru Blog',
   author: 'jadru',
   email: 'ygpark0922@gmail.com',
-  link: 'https://github.com/jadru',
+  link: 'https://www.jadru.com',
   description: 'Hello world:)',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Seoul',
@@ -18,7 +18,7 @@ const BLOG = {
   showArchive: false,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'http://instagram.com/jadru',
+  socialLink: 'http://github.com/jadru',
   seo: {
     keywords: ['Blog', 'Website', 'Notion', 'Jadru', 'Frontend'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
